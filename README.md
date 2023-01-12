@@ -28,6 +28,9 @@ the first useCase of "TWOSUM"
 all 3 usescases of 'PALINDROME NUMBER' at work yesterday in 15 minutes.
 2 usecases of 'SEARCH INSERT POSITION'
 
+I may publicize myself as deficient || inefficient when the alternative could be waiting to surface from higher ground.
+this is the only real downside i see.
+
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
 The Upside: 
@@ -41,6 +44,6 @@ I already save my learnings in a color coded google docs. Why not save this?
 
 It is the total opposite of starting ejs-pokedex and being afraid of the commits revealing me to be sub-par. 
 
-I am not good at algorithms and i still believe it's worth tracking and it doesn't hurt to track publicly.  
+I am not good at algorithms; i still believe it's worth tracking; it doesn't hurt to track publicly.  
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
     
