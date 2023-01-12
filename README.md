@@ -2,6 +2,7 @@
 Notepad
 
 This will be a .txt file
+
 When i made pokemon ejs i was cleaning up my fullstack projects from bootcamp and was worried i'd reveal myself:
     through the over-amount of time it would take to complete tasks and it being obvious that i didn't know enough.
 (for example i was worried that if i spent 3 weeks on a login it would look better to have 1 commit on the app without any indicators of the time it takes)
